@@ -3,6 +3,9 @@
 
 This program is made to help a fictional game development studio to maximize the revenue of their next game, through analyzing video game sales data, that hopefully could help the studio make a better decision.
 
+## Acknowledgements
+
+ - [Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
 ## Tech Stack
 
