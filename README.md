@@ -1,7 +1,7 @@
 
 # Video Game Sales Dashboard
 
-This program is made to help a fictional game development studio to maximize the revenue of their next game, through analyzing video game sales data, that hopefully could help the studio make a better decision.
+This program was made to help a fictional game development studio maximize the revenue of their next game, by analyzing video game sales data, which could help the studio make a better decision.
 
 ## Acknowledgements
 
